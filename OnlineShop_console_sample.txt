@@ -1,0 +1,159 @@
+"C:\Program Files\Java\jdk1.8.0_171\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\lib\idea_rt.jar=10954:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Users\User\IdeaProjects\untitled\out\production\untitled;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\plugins\Kotlin\kotlinc\lib\kotlin-stdlib.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\plugins\Kotlin\kotlinc\lib\kotlin-reflect.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\plugins\Kotlin\kotlinc\lib\kotlin-test.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jdk7.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.3\plugins\Kotlin\kotlinc\lib\kotlin-stdlib-jdk8.jar" untitled.OnlineShopApp
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+123
+Added to Cart
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+234
+Added to Cart
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+2
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+3
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Total amount owing: $141.0
+Pay full amount?
+1. Yes
+2. No, back to main menu
+1
+Thank you for your purchase.
+You may also be interested in purchasing these products:
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+123
+Added to Cart
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+234
+Added to Cart
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+345
+Added to Cart
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+2
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+3
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Total amount owing: $206.5
+Pay full amount?
+1. Yes
+2. No, back to main menu
+1
+Thank you for your purchase.
+You may also be interested in purchasing these products:
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+1
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Soap Code:345 Price:$65.5 Color:Blue Weight:55
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+Utensil Code:456 Price:$75.5 Color:Green Weight:65
+Enter the code of the product you want to buy
+123
+Added to Cart
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+2
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+3
+Contents of your cart:
+Shampoo Code:123 Price:$55.5 Color:white Weight:50
+Total amount owing: $55.5
+Pay full amount?
+1. Yes
+2. No, back to main menu
+1
+Thank you for your purchase.
+You may also be interested in purchasing these products:
+Bottle Code:234 Price:$85.5 Color:Yellow Weight:40
+1. Add product to cart
+2. View your shopping cart
+3. Finalise purchases
+4. Quit
+4
+Thank you for using the online shop
+
+Process finished with exit code 0
