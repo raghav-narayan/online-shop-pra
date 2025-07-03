@@ -1,6 +1,6 @@
 # 🛒 Online Shop with Product Recommender Algorithm (PRA)
 
-A console-based Java application simulating an online shop with an integrated product recommender engine. This project was developed as part of the COMP503/ENSE502/ENSE602 curriculum at Auckland University of Technology.
+A console-based Java application simulating an online shop with an integrated product recommender engine.
 
 ## 📌 Overview
 
