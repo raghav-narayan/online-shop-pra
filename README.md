@@ -60,7 +60,3 @@ Given the purchase histories of multiple users, the PRA algorithm calculates pro
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-> Developed as part of academic coursework under the guidance of Dr. Seyedjamal Zolhavarieh at AUT.
